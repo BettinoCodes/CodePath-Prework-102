@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ![Web102PreworkGIF-Imgur-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/64742fc1-8631-452f-8463-5cec4f9a8b75)
+
+
 Created with RecForth
 Created with [ezgif](https://ezgif.com/)
 ## Notes
