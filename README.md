@@ -23,10 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-
+![Web102PreworkGIF-Imgur-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/64742fc1-8631-452f-8463-5cec4f9a8b75)
+Created with RecForth
+Created with [ezgif](https://ezgif.com/)
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -34,7 +33,6 @@ Describe any challenges encountered while building the app.
 A challenge that I faced was getting used to using javascript again after focusing on python heaivily for projects for for the last couple of months, getting used to the syntax took a while for me to get used to it. I did also kind of stuggled with understanding the DOM concept again but with practice, errors and code tweaks, I was able to be more comforatable with it.
 
 ## License
-![Web102PreworkGIF-Imgur-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/64742fc1-8631-452f-8463-5cec4f9a8b75)
 
     Copyright 2024 Bettino Gaussaint
 
